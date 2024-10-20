@@ -1,1 +1,1 @@
-[![DE](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/VictorMartins1310/multilanguage-readme-pattern/blob/master/README.md)
+[![DE](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/VictorMartins1310/FullStack-Project/blob/main/README-DE.md)
